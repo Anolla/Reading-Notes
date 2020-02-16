@@ -4,7 +4,7 @@
 
 Readings | Links
 -------- | ------
-Read 1| [GitHub Pages](https://anolla.github.io/Reading-Notes/class-01).
+Read 1| [Class 01](https://anolla.github.io/Reading-Notes/class-01).
 Read 2 | Content 
 Read 3 | Content
 Read 4 | Content
