@@ -7,7 +7,7 @@
 - unordered lists (bullet points )
 - definition lists ( are made up of a set of itmes along with the definition for each of those items)
 
-*you can create a list by using \<li> inide another \<li> element
+* you can create a list by using \<li> inide another \<li> element
 
 
 ## Boxes
