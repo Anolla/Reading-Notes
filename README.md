@@ -5,8 +5,8 @@
 Readings | Links
 -------- | ------
 Read 1| [Class 01](https://anolla.github.io/Reading-Notes/class-01)
-Read 2 | Content 
-Read 3 | Content
+Read 2 | [class 02](https://anolla.github.io/Reading-Notes/class-02) 
+Read 3 | Content/
 Read 4 | Content
 Read 5 | Content
 Read 6 | Content
