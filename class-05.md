@@ -7,11 +7,11 @@ It must contain these three attributes :src , alt, title.
 
 * there are three rules to remeber when your creating images for your website. which are :
 
-1- save images in the right format.
+   1- save images in the right format.
 
-2- save images at the right size.
+   2- save images at the right size.
 
-3- usethe correct resolution.
+   3- usethe correct resolution.
 
 
 * Images with flat colors, save them in GIF or PNG format. And images that have many different colors, use JPEG format.
